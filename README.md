@@ -1,4 +1,4 @@
-Math Alarm Clock README.md
+
 Introduction
 
 This enhanced Math Alarm Clock application is designed to intercept alarm notifications from the Windows Clock app. To dismiss the alarm, users must solve math problems. This version includes the ability to play a music file of the user's choice until the math problems are solved.
@@ -9,6 +9,7 @@ Prerequisites
     win11toast, winsdk, vlc, and tkinter packages
 
 Setup
+
 Installation
 
     Python Installation:
